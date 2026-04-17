@@ -115,26 +115,18 @@ Passionate about designing scalable, secure, and cost-effective cloud architectu
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=augustovoigt&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=augustovoigt&theme=github-dark-blue&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&fire=58a6ff&ring=58a6ff&currStreakLabel=58a6ff" height="180" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=augustovoigt&layout=compact&langs_count=7&theme=github_dark&hide_border=true" height="180" alt="Top Languages" />
-</p>
-
-<div align="center">
-
-[![trophy](https://github-profile-repo.vercel.app/?username=augustovoigt&theme=onestar&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <img src="https://streak-stats.demolab.com/?user=augustovoigt&theme=github-dark-blue&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&fire=58a6ff&ring=58a6ff&currStreakLabel=58a6ff" height="180" alt="GitHub Streak" /
+  [![trophy](https://github-profile-repo.vercel.app/?username=augustovoigt&theme=onestar&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ---
 
 ## 📈 Contribution Activity
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=augustovoigt&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&radius=8" height="280" alt="Activity Graph" />
 </p>
 
