@@ -20,6 +20,7 @@ Passionate about designing scalable, secure, and cost-effective cloud architectu
 <div align="left">
 
 ### ☁️ Cloud & Infrastructure
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -31,6 +32,7 @@ Passionate about designing scalable, secure, and cost-effective cloud architectu
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### ⚙️ DevOps & CI/CD
+
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white)
@@ -38,12 +40,14 @@ Passionate about designing scalable, secure, and cost-effective cloud architectu
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### 💻 Languages & Scripting
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 ### 📊 Observability
+
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logoColor=white)
@@ -51,6 +55,7 @@ Passionate about designing scalable, secure, and cost-effective cloud architectu
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ### 🛢️ Databases
+
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -89,15 +94,18 @@ Passionate about designing scalable, secure, and cost-effective cloud architectu
 
 ## 📂 Featured Projects
 
+Below are some public repositories showcasing how I architect, organize, and automate AWS infrastructure at scale:
+
 <div align="center">
 
-| # | Project | Description | Stack |
-|:---:|:---|:---|:---|
-| 01 | 🔜 **IaC Landing Zone** | *Multi-account AWS Landing Zone with Terraform* | `Terraform` `Control Tower` `Organizations` |
+| Project | Description | Stack |
+|:---|:---|:---|
+| [**tofu-aws-modules**](https://github.com/augustovoigt/tofu-aws-modules) | Reusable OpenTofu/Terraform modules for AWS infrastructure, reflecting patterns from real-world multi-account environments | `OpenTofu` `Terraform` `AWS` `HCL` |
+| [**tofu-aws-infra**](https://github.com/augustovoigt/tofu-aws-infra) | Multi-account AWS infrastructure managed with OpenTofu, featuring layered deployment contexts with isolated state files | `OpenTofu` `AWS` `GitHub Actions` `S3 Backend` |
+| [**tofu-aws-core-infra**](https://github.com/augustovoigt/tofu-aws-core-infra) | Core infrastructure module for a multi-account AWS platform with context-based architecture (global, regional, vpc-scoped) and feature flags | `OpenTofu` `AWS` `ECS` `EKS` `VPC` `Lambda` `WAF` |
+| [**tofu-aws-application**](https://github.com/augustovoigt/tofu-aws-application) | Application infrastructure module for AWS supporting both EKS and ECS deployment models with RDS, Secrets Manager, S3, and EventBridge | `OpenTofu` `AWS` `ECS` `EKS` `RDS` `S3` `EventBridge` |
 
 </div>
-
-> 💡 *This section will be updated as new projects are published. Stay tuned!*
 
 ---
 
